@@ -161,7 +161,7 @@ What can we use to determine what policies will be applied for a given machine?
 * gpupdate [INCORRECT]
 * A control panel [INCORRECT]
 * A test domain
-* An RSOP report
+* **An RSOP report**
 
 <br>
 
